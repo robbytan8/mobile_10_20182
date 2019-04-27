@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mobile_10_20182</string>
+    <string name="text_first">First Name</string>
+    <string name="text_last">Last Name</string>
+    <string name="action_submit">Submit</string>
+    <string name="error_msg_person">Please fill first and last name</string>
+    <string name="success_msg">Data inserted successfully</string>
+    <string name="text_person">Person Data</string>
+    <string name="text_department">Department Data</string>
+    <string name="text_student">Student Data</string>
+    <string name="text_dep_name">Department Name</string>
+    <string name="error_msg_dep">Please provide a valid name</string>
+</resources>
